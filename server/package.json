@@ -1,0 +1,37 @@
+{
+  "name": "mean-angular6-registration-login-example-server",
+  "version": "1.0.0",
+  "description": "Server for MEAN Stack with Angular 6 User Registration and Login Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-arockiyam/mean-angular6-registration-login-example.git"
+  },
+  "keywords": [
+    "mean",
+    "angular6"
+  ],
+  "author": "Palraj Arockiaraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paul-arockiyam/mean-angular6-registration-login-example/issues"
+  },
+  "homepage": "https://github.com/paul-arockiyam/mean-angular6-registration-login-example#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.11",
+    "mongodb": "^2.2.19",
+    "mongoskin": "^2.1.0",
+    "q": "^1.5.1",
+    "request": "^2.88.0",
+    "rootpath": "^0.1.2"
+  }
+}
